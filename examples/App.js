@@ -1,7 +1,7 @@
 /*
  * @Date: 2019-12-05 09:39:21
  * @Author: liujixin
- * @LastEditTime: 2019-12-10 09:24:12
+ * @LastEditTime : 2020-01-18 17:30:44
  */
 /**
  * Sample React Native App
@@ -121,7 +121,6 @@ const App: () => React$Node = () => {
             mobileReferenceLineColor={'rgb(0,0,0,0.15)'}
             linesColor={['#5691ff', '#fea649']}
             axisXTitleMaxCount={7}
-            axisXTitleWidth={50}
             style={{
               backgroundColor: '#fff',
               width: width - 40,
@@ -137,7 +136,6 @@ const App: () => React$Node = () => {
             displayMobileReferenceLine={true}
             mobileReferenceLineColor={'rgb(0,0,0,0.15)'}
             linesColor={['#5691ff', '#fea649']}
-            axisXTitleWidth={32}
             style={{
               backgroundColor: '#fff',
               width: width - 40,

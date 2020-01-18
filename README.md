@@ -1,11 +1,20 @@
 <!--
  * @Date: 2019-12-05 09:56:29
  * @Author: liujixin
- * @LastEditTime : 2020-01-18 15:24:46
+ * @LastEditTime : 2020-01-18 17:37:01
  -->
 # react-native-interactive-charts
 
 基于SVG的可交互ReactNative图表组件。
+
+## 运行示例工程
+```bash
+$ cd examples
+$ npm install
+$ npm run wml-start
+```
+![](https://github.com/xiaoguan-tech/react-native-interactive-charts/blob/master/screen-shot-ios.png)
+![](https://github.com/xiaoguan-tech/react-native-interactive-charts/blob/master/screen-shot-andriod.png)
 
 ## 安装
 

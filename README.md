@@ -1,7 +1,7 @@
 <!--
  * @Date: 2019-12-05 09:56:29
  * @Author: liujixin
- * @LastEditTime : 2020-01-18 17:37:01
+ * @LastEditTime : 2020-01-18 17:51:31
  -->
 # react-native-interactive-charts
 
@@ -13,8 +13,10 @@ $ cd examples
 $ npm install
 $ npm run wml-start
 ```
-![](https://github.com/xiaoguan-tech/react-native-interactive-charts/blob/master/screen-shot-ios.png)
-![](https://github.com/xiaoguan-tech/react-native-interactive-charts/blob/master/screen-shot-andriod.png)
+<p align="center">
+<img src="https://github.com/xiaoguan-tech/react-native-interactive-charts/blob/master/screen-shot-ios.png" alt="screen-shot-ios"  width="320" height="568">
+<img src="https://github.com/xiaoguan-tech/react-native-interactive-charts/blob/master/screen-shot-andriod.png" alt="screen-shot-andriod"  width="320" height="568">
+</p>
 
 ## 安装
 

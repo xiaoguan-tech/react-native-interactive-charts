@@ -1,0 +1,18 @@
+{
+  "name": "@tools/react-native-chart",
+  "version": "1.0.2",
+  "description": "chart kit for reaact-native",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "react-native-svg": "^9.11.1",
+    "react-native-linear-gradient": "^2.5.6"
+  },
+  "keywords": [
+    "chart"
+  ],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "examples",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "wml-start": "node ./node_modules/wml/src/cli/index.js add ../src ./node_modules/@tools/react-native-chart/src&&node ./node_modules/wml/src/cli/index.js start",
+    "wml-stop": "node ./node_modules/wml/src/cli/index.js stop",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@tools/react-native-chart": "^1.0.2",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-svg": "^9.11.1",
+    "wml": "0.0.83"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/runtime": "^7.7.4",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.7.2",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.57.0",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

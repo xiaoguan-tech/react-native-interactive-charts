@@ -1,7 +1,7 @@
 {
-  "name": "@tools/react-native-chart",
-  "version": "1.0.2",
-  "description": "chart kit for reaact-native",
+  "name": "react-native-interactive-charts",
+  "version": "1.0.0",
+  "description": "interactive charts for reaact-native",
   "main": "./src/index.js",
   "scripts": {
     "test": "test"
@@ -11,7 +11,9 @@
     "react-native-linear-gradient": "^2.5.6"
   },
   "keywords": [
-    "chart"
+    "chart",
+    "react-native-chart",
+    "interactive-chart"
   ],
   "author": "",
   "license": "MIT"

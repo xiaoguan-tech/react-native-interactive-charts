@@ -3,14 +3,14 @@
  * @Author: liujixin
  * @LastEditTime : 2020-01-18 15:24:46
  -->
-# @tools/react-native-chart
+# react-native-interactive-charts
 
 基于SVG的可交互ReactNative图表组件。
 
 ## 安装
 
 ```bash
-$ npm add @tools/react-native-chart --save
+$ npm add react-native-interactive-charts --save
 ```
 
 ## 依赖项

@@ -115,7 +115,8 @@ export default class BarChart extends Component {
     // 计算y轴稀疏标题
     const yTitles = Utils.calculateYSparseNumbers(maxItem);
     // y轴参考线
-    const yLineList = Utils.renderYReferenceLines(yTitles, heightRatio, width - 60);
+    const totalWidth = w * sourceList.length;
+    const yLineList = Utils.renderYReferenceLines(yTitles, heightRatio, totalWidth);
     // y轴标题
     const yTitleList = this.getYTitleList(yTitles, heightRatio, yUnit);
     // x轴标题
